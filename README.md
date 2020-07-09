@@ -7,5 +7,6 @@ Foi utilizado até o momento da abertura desse documento o seguinte setup:
 
 * Ubuntu 20.04 LTS
 * Python 3.8.2
-* Pacote tkinter para Python 3.8
+* Biblioteca tkinter para Python 3.8 <br>
+<sub>sudo apt install python3.8-tk </sub>
 * VSCode
